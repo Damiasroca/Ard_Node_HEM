@@ -1,4 +1,3 @@
-//#include <SoftwareSerial.h>
 #include <ArduinoJson.h>
 #if defined(ESP32)
 #include <WiFiMulti.h>
