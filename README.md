@@ -31,6 +31,6 @@ Hardware:
   
   I'm sure that there's a million things to improve, if you want to collaborate, you'll be very welcome
   
-  # Conections
+  # Wiring Schema
   
   ![alt text](https://github.com/Damiasroca/Ard_Node_HEM/blob/main/Conexions_schem.png?raw=true)
