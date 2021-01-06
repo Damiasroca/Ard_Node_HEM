@@ -30,3 +30,7 @@ Hardware:
   Inside the other 2 folders you'll find the code for the mega and the code for the NodeMCU
   
   I'm sure that there's a million things to improve, if you want to collaborate, you'll be very welcome
+  
+  # Conections
+  
+  ![alt text](https://github.com/Damiasroca/Ard_Node_HEM/blob/main/Conexions_schem.png?raw=true)
