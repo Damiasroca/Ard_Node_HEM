@@ -1,7 +1,7 @@
 # Ard_Node_HEM
 Yet another home energy monitor
 
-*Arduino and NodeMCU Home energy monitor*
+*Arduino and NodeMCU Home energy monitor, home climate and air quality*
 
 My first project as a complet newbie with arduino and Nextion displays.
 
