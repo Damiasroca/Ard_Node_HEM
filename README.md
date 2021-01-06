@@ -18,3 +18,9 @@ Hardware:
   -Current Sensor SCT-013-000 (100A)
 	
   -ZMPT101B Module for voltage measures
+
+  -InfluxDB v2.00 
+  
+  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  
+  In 
