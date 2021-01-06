@@ -1,5 +1,7 @@
 # Ard_Node_HEM
-Arduino and NodeMCU Home energy monitor
+Yet another home energy monitor
+
+*Arduino and NodeMCU Home energy monitor*
 
 My first project as a complet newbie with arduino and Nextion displays.
 
@@ -23,4 +25,8 @@ Hardware:
   
   +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
-  In 
+  In the "Nextion" folder you can find the .hmi file (nextion editor files), and all the images I used for my display
+  
+  Inside the other 2 folders you'll find the code for the mega and the code for the NodeMCU
+  
+  I'm sure that there's a million things to improve, if you want to collaborate, you'll be very welcome
