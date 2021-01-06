@@ -23,7 +23,7 @@ Hardware:
 
   **-InfluxDB v2.00** 
   
-  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
   In the "Nextion" folder you can find the .hmi file (nextion editor files), and all the images I used for my display
   
