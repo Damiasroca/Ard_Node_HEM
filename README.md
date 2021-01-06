@@ -34,3 +34,6 @@ Hardware:
   # Wiring Schema
   
   ![alt text](https://github.com/Damiasroca/Ard_Node_HEM/blob/main/Conexions_schem.png?raw=true)
+  
+  
+  Note the 470µF capacitor hooked on the Nextion display, I found out that they produce a high amount of noise, seems that a capacitor it's enough for cutting out the spikes.
