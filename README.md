@@ -36,5 +36,5 @@ Hardware:
   ![alt text](https://github.com/Damiasroca/Ard_Node_HEM/blob/main/Conexions_schem.png?raw=true)
   
   
-  Note the 470µF capacitor hooked on the Nextion display, as **@PerryBebbington** pointed out in this [thread](https://forum.arduino.cc/index.php?topic=604185.68).
+  Note the 470µF capacitor hooked on the Nextion display, as **@PerryBebbington** pointed out in this [thread](https://forum.arduino.cc/index.php?topic=604185.0).
 
