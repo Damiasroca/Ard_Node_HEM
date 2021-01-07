@@ -38,3 +38,5 @@ Hardware:
   
   Note the 470µF capacitor hooked on the Nextion display, as **@PerryBebbington** pointed out in this [thread](https://forum.arduino.cc/index.php?topic=604185.0).
 
+
+  A video can be watched in this [link](https://vimeo.com/497961522).
