@@ -13,11 +13,11 @@ ESP8266WiFiMulti wifiMulti;
 #include <InfluxDbCloud.h>
 
 
-#define WIFI_SSID "NOM_WiFi"
+#define WIFI_SSID "YOUR_WIFI_SSID"
 
-#define WIFI_PASSWORD "CONTRASENYA_WiFi"
+#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
 
-#define INFLUXDB_URL "http://servidor.com:8086"
+#define INFLUXDB_URL "http://YOURSERVER.COM:8086"
 
 #define INFLUXDB_TOKEN "TOKEN_PERSONAL"
 
@@ -26,18 +26,14 @@ ESP8266WiFiMulti wifiMulti;
 #define INFLUXDB_BUCKET "BUCKET_PERSONAL"
 
 // Set timezone string according to https://www.gnu.org/software/libc/manual/html_node/TZ-Variable.html
-// Examples:
-//  Pacific Time: "PST8PDT"
-//  Eastern: "EST5EDT"
-//  Japanesse: "JST-9"
-//  Central Europe: "CET-1CEST,M3.5.0,M10.5.0/3"
+
 #define TZ_INFO "CET-1CEST,M3.5.0,M10.5.0/3"
 
 
 InfluxDBClient client(INFLUXDB_URL, INFLUXDB_ORG, INFLUXDB_BUCKET, INFLUXDB_TOKEN, InfluxDbCloud2CACert);
 
 // Data point
-Point sensor("Ca_meva");
+Point sensor("YOUR_SENSOR_NAME");
 
 float data1;
 float data2;
